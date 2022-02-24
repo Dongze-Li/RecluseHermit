@@ -1,3 +1,3 @@
-- Cody Li / Dongze
+- Cody/Dongze Li
 - UCSD Undergrate
-- Applied Math / Cognitive Science (ML)
+- Applied Math / Cognitive Science Machine Learning
