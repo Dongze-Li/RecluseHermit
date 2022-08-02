@@ -1,3 +1,3 @@
 - Cody/Dongze Li
 - UCSD Undergrate
-- Applied Math / Cognitive Science Machine Learning
+- Applied Math / Cognitive Science Spec Machine Learning and Neuron Computation
